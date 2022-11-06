@@ -30,16 +30,18 @@ In most cases, you’ll also want to also install npm, the Node.js package manag
 
 This will allow you to install modules and packages to use with Node.js.
 
+Now move to next steps, execute following commands in terminal. First move to directory Railway-Time-Optimization-backend where our server codes are present.
+  
+  2.  `cd Railway-Time-Optimization-backend`
 
+Now install node_module folder -
 
-
-
-  2. `npm i`
+  3. `npm i`
 
 This will install the node_modules which will include all the required packages for running this project.
 
 After installation of node_module is completed, run below command to start server.
 
-3. `npm start`
+4. `npm start`
 
 Now, your project will run on `http://localhost:8787/` 🥳.
